@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anant Singh and I'm a front-end Developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Anant Singh and I'm a front-end developer, from Area 51 facility</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/EtMbUARqeacAAAAC/bin-laden.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/N-WYlyfnjDsAAAAi/pepe-skill-issue.gif"  />
 
 ###
 
@@ -43,9 +43,6 @@
   <a href="https://discord.com/users/900279632639700992" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="singhanant0411@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="codepen.io/aarcanee" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
@@ -57,7 +54,6 @@
 ###
 
 <br clear="both">
-
 
 
 ###
