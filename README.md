@@ -1,4 +1,4 @@
-<h2 align="left">Hello👋! My name is Anant Singh and I'm a front-end developer, from some random guys basement who kidnapped me.</h2>
+<h2 align="left">Hello👋! My name is Anant Singh and I am a front-end developer from India.</h2>
 
 ###
 
