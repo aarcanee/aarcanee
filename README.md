@@ -1,4 +1,4 @@
-<h2 align="left">Hello👋! My name is Anant Singh and I am a front-end developer from India.</h2>
+<h2 align="left">My name is Anant Singh and I am a front-end developer from India, I like watching f1, wec and play games.</h2>
 
 ###
 
