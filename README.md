@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/N-WYlyfnjDsAAAAi/pepe-skill-issue.gif"  />
+<img align="right" height="150" src="gif"  />
 
 ###
 
